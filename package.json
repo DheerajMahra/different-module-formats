@@ -1,0 +1,19 @@
+{
+  "name": "different-module-formats",
+  "version": "1.0.0",
+  "description": "A module is a reusable piece of code that encapsulates implementation details and exposes a public API so it can be easily loaded and used by other code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DheerajMahra/different-module-formats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DheerajMahra/different-module-formats/issues"
+  },
+  "homepage": "https://github.com/DheerajMahra/different-module-formats#readme"
+}
